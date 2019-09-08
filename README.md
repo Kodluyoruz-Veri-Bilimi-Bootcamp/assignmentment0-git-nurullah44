@@ -26,3 +26,4 @@
 * git push origin master
 
 ----
+kodluyoruz veribilimi bootcamp
